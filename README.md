@@ -1,2 +1,2 @@
-# Jyothi.github.io
+# Jyothi
 Porfolio Website
